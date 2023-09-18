@@ -1,0 +1,3 @@
+To create image from Testfile we need to add below cmd
+docker run -it newimg . -f Testfile
+
