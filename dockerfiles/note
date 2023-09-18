@@ -1,3 +1,0 @@
-To run Testfile we need to run below command
-docker build -t newimage -f testfile
-
